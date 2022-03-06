@@ -35,4 +35,4 @@ What steps did you take to try and increase model performance?
 Some steps which were taken to improve the accuracy is that more hidden layers were added and neurons were increased or decreased.
 ## Summary
 
-The activations which showed the highest accuracy (72.5%) were used to produce the accuracy number.  These two activations proved to produce the best model for the data using a various number of neurons and hidden layers.
+The activations which showed the highest accuracy (72.6%) were used to produce the accuracy number.  These two activations proved to produce the best model for the data using a various number of neurons and hidden layers.
